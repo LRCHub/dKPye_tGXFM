@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "聿日箋秋",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-22T04:34:06.984338Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "聿日箋秋",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/01_聿日箋秋_MyGO!!!!!.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "聿日箋秋",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/02_聿日箋秋_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "聿日箋秋 - Ichijitsusenshu",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/03_聿日箋秋_-_Ichijitsusenshu_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "聿日箋秋",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_01_聿日箋秋_MyGO!!!!!.txt"
+    }
+  ]
+}
